@@ -11,7 +11,7 @@
     </parent>
 
     <groupId>com.musk</groupId>
-    <artifactId>common</artifactId>
+    <artifactId>generator</artifactId>
     <version>0.0.1-SNAPSHOT</version>
 
     
