@@ -8,6 +8,12 @@
         <version>3.4.1</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
+
+    <modules>
+        <module>common</module>
+        <module>web</module>
+    </modules>
+
     <groupId>com.musk</groupId>
     <artifactId>ear</artifactId>
     <version>0.0.1-SNAPSHOT</version>
